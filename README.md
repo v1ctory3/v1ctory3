@@ -3,7 +3,7 @@
 - 🌟 Dept. of Computer and Information Security
 - 🌱 My research interests include the field of security(5G/6G, Blockchain, System)  
 - 💞️ [Protocol Engineering Lab](https://pel.sejong.ac.kr/wordpress/)
-- 📫 [Linkdedin](https://www.linkedin.com/in/seungchan-woo/)
+- 📫 [LinkdedIn](https://www.linkedin.com/in/seungchan-woo/)
 
 <!---
 v1ctory3/v1ctory3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

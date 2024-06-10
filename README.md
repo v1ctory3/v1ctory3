@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Seungchan Woo, AKA @v1ctory3 
 - 👀 I’m Research Assistant of Sejong University, South Korea.
 - 🌟 Dept. of Computer and Information Security
-- 🌱 My research interestes include Security Field(5G/6G, Blockchain, System)  
-- 💞️ [Protocol Engineering Lab](pel.sejong.ac.kr)
+- 🌱 My research interests include the field of security(5G/6G, Blockchain, System)  
+- 💞️ [Protocol Engineering Lab](https://pel.sejong.ac.kr/wordpress/)
 - 📫 [Linkdedin](https://www.linkedin.com/in/seungchan-woo-266870280/)
 
 <!---
